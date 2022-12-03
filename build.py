@@ -1,2 +1,2 @@
 import os
-os.system('python3 /root/flag.py > /home/guest/lol.txt')
+os.system('echo "hello world" > /home/guest/lol.txt')
